@@ -15,7 +15,7 @@
 - Фреймворк для тестування: JUnit Jupiter
 
 ## Тести
-## [Посилання:](https://github.com/SStechnoS/arsenii_java/tree/test/src/main/java/com/university/lab6) 
+## [Посилання:](https://github.com/SStechnoS/arsenii_java/tree/main/src/test/java/com/university/lab6) 
 У проекті використано тести для перевірки правильності роботи різних функціональностей:
 - `testBookSeats`: Перевіряє правильність бронювання місць.
 - `testCancelBooking`: Перевіряє правильність скасування бронювання місць.
